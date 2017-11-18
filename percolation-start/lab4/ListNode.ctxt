@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ListNode
+comment1.params=x
+comment1.target=ListNode(int)
+comment2.params=x\ node
+comment2.target=ListNode(int,\ ListNode)
+numComments=3

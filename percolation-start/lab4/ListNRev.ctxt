@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ListNRev
+comment1.params=n
+comment1.target=ListNode\ make(int)
+numComments=2
